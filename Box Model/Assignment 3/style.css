@@ -1,2 +1,54 @@
 .container {
+  width: 487px;
+  /* height: 680px; */
+  border: 2px solid rgb(150, 141, 141);
+  margin: 200px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.img {
+  width: 100%;
+}
+
+.img img {
+  width: 100%;
+}
+
+.title {
+  width: 100%;
+  font-size: 25px;
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+  margin-left: 30px;
+  color: grey;
+}
+
+h6 {
+  width: 300px;
+  font-weight: 400;
+  color: grey;
+  margin-left: 10px;
+}
+
+.para {
+  font-size: 30px;
+  margin-left: 30px;
+}
+
+.para2 {
+  font-size: 20px;
+  margin-left: 32px;
+  color: grey;
+}
+
+.btn {
+  font-size: 20px;
+  margin: 22px 29px;
+  padding: 10px 20px;
+  background: transparent;
+  border: 2px solid rgb(145, 135, 135);
+  color: rgb(76, 91, 230);
+  border-radius: 10px;
 }
